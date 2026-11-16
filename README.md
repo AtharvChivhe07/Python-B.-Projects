@@ -4,9 +4,12 @@
 A simple Python project created for learning and practicing Python programming.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Collection of beginner-friendly Python projects.
+- Simple and easy-to-understand code.
+- Practice of basic Python concepts.
+- Use of variables, loops, and functions.
+- Hands-on programming practice.
+- Regularly updated with new projects.
 
 ## Requirements
 - Python 3.x
